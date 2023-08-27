@@ -1,4 +1,4 @@
-# Top-K-Elementos# Top-K-elementos
+# Top-K-Elementos
 ---
 
 É bastante frequentemente necessário, ao analisar conjuntos de dados, identificar a porção mais relevante ou valiosa dentro de uma grande quantidade de informações. Isso implica em discernir os elementos mais significativos dentre aqueles de menor importância. A partir desse procedimento, é viável conduzir análises de dados e obter conclusões pertinentes a respeito das informações, algo inviável de ser realizado manualmente devido à magnitude do volume de dados.
