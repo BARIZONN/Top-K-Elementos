@@ -62,7 +62,7 @@ Segundo arquivo:
 
 ### Exemplo de saída
 
-![saída](/img/saída.png)
+![saída](/img/saida.png)
 
 ## Conclusão
 
