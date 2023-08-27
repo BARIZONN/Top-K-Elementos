@@ -22,7 +22,7 @@ Em síntese, este trabalho realiza a leitura e análise de diversos textos subme
 Inicialmente, uma tabela hash é criada para armazenar todas as palavras presentes nos textos. Cada vez que uma palavra é identificada, sua frequência na tabela hash é incrementada. A detecção das palavras é realizada por meio da leitura de cada byte do arquivo por vez. Dessa forma, cada conjunto de bytes delimitado por marcadores de término é considerado uma palavra.
 
 As marcas de terminação usadas são: 
-- espaço; nova linha; ```!```; ```?```; ```.```;
+- ```!```; ```?```; ```.```;
 - ```,```; ```(```; ```)```; ```;```; ```/```; 
 - ```:```; ```—```; ```"```; ```\```;
 
